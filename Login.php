@@ -20,7 +20,7 @@
     <h2 style="text-align: center; background-color:white;">Toys Store</h2>
 
     <div class="container-fluid">
-        <a href="https://www.facebook.com/nguyetcan.tran.357/" class="navbar-brand">
+        <a href="" class="navbar-brand">
             <img src="./images/logo.jpg" alt="" width="120px" height="120px">
         </a>
         <!-- thiết kế logo để quay lại trang chủ dùng "index.php"-->
